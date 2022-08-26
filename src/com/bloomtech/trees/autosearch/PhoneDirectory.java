@@ -21,7 +21,7 @@ public class PhoneDirectory {
     }
 
     public void addContacts(TreeMap<Name, Contact> contacts) {
-        this.contacts.putAll(contacts);
+
     }
 
     public TreeMap<Name, Contact> getContacts() {
